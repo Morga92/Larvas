@@ -16,5 +16,5 @@
   <author href="https://github.com/Morga92" email="jmorga92@gmail.com">
       Hardeep Shoker
   </author>
-
+ <icon src="icon.png" />
 </widget>
